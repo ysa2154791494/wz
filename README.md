@@ -1,1 +1,13 @@
-# wz
+<!DOCTYPE html>
+<html>  
+    <head>  
+        <title>Welcome to my github page </title>  
+    </head>  
+    <body>  
+        <p>  
+        <b>My name is winycg</b> 
+	<br>
+	 <b>welcome to my csdn blog:blog.csdn.net/winycg</b> 
+        </p>  
+    </body>  
+</html>
